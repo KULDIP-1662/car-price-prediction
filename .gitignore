@@ -1,3 +1,9 @@
 learning.txt
 logs/
 data/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
